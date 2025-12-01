@@ -1,0 +1,5 @@
+{
+  "appId": "com.example.app",
+  "appName": "MLBB Sentiment Analyzer App",
+  "webDir": "dist"
+}

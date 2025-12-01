@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-error.log
+
+# Build outputs
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Capacitor
+capacitor/
+www/
+
+# Android
+android/build/
+android/.gradle/
+android/local.properties
+
+# Logs
+*.log
